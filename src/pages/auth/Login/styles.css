@@ -1,0 +1,24 @@
+/* src/pages/auth/Login/styles.css */
+.auth-page {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 2rem;
+    background-color: #f8f9fa;
+  }
+  
+  .auth-redirect {
+    margin-top: 1rem;
+    text-align: center;
+  }
+  
+  .auth-redirect a {
+    color: #007bff;
+    text-decoration: none;
+  }
+  
+  .auth-redirect a:hover {
+    text-decoration: underline;
+  }
+  
